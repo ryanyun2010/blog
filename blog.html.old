@@ -21,7 +21,7 @@ display:block
 font-size:12px;position:absolute;right:12px}
 </style>
 <h1 id="title">Ryan's Blog</h1>
-<section class="post"><h1>test</h1><p>this is a test post</p><p>class="date"= Sat Apr 20 20:38:20 PDT 2019</p><p class="owner">Ryan Yun</p></section>n<section class=""post""><h1>$blogname</h1><p>$blogpost</p><p>class=""date""$date</p><p class=""owner"">Ryan Yun</p></section>n<section class=""post""><h1>(cat blogname.tmp)</h1><p>(cat blog.tmp)</p><p>class=""date""(date)</p><p class=""owner"">Ryan Yun</p></section>
+<section class="post"><h1>test</h1><p>this is a test post</p><p class="date">= Sat Apr 20 20:39:02 PDT 2019</p><p class="owner">Ryan Yun</p></section><section class="post"><h1>test</h1><p>this is a test post</p><p>class="date"= Sat Apr 20 20:38:20 PDT 2019</p><p class="owner">Ryan Yun</p></section>n<section class=""post""><h1>$blogname</h1><p>$blogpost</p><p>class=""date""$date</p><p class=""owner"">Ryan Yun</p></section>n<section class=""post""><h1>(cat blogname.tmp)</h1><p>(cat blog.tmp)</p><p>class=""date""(date)</p><p class=""owner"">Ryan Yun</p></section>
 <section class="post">
 <h1>
 I started a blog and figured out how to automate making posts
