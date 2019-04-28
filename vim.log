@@ -1,0 +1,145 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.010  000.010: --- VIM STARTING ---
+000.149  000.139: Allocated generic buffers
+000.694  000.545: locale set
+000.723  000.029: GUI prepared
+000.727  000.004: clipboard setup
+000.738  000.011: window checked
+001.432  000.694: inits 1
+001.444  000.012: parsing arguments
+005.919  004.475: expanding arguments
+010.903  004.984: shell init
+011.625  000.722: Termcap init
+011.691  000.066: inits 2
+016.205  004.514: init highlight
+016.913  000.528  000.528: sourcing $VIM/vimrc
+017.539  000.222  000.222: sourcing /Users/ryanyun/.vim/dia.vim
+018.537  000.880  000.880: sourcing /Users/ryanyun/.vim/config/mappings.vim
+018.896  000.134  000.134: sourcing /Users/ryanyun/.vim/automakedir.vim
+019.176  000.190  000.190: sourcing /Users/ryanyun/.vim/vmath.vim
+019.292  000.030  000.030: sourcing /Users/ryanyun/.vim/templates/template_loader.vim
+019.701  000.307  000.307: sourcing /Users/ryanyun/.vim/bundle/Vundle.vim/autoload/vundle.vim
+020.720  000.337  000.337: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+020.905  000.675  000.338: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/syntax/synload.vim
+033.988  012.945  012.945: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
+034.069  014.092  000.472: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/syntax/syntax.vim
+034.569  000.040  000.040: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
+034.808  000.087  000.087: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/ftplugin.vim
+035.025  000.071  000.071: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/indent.vim
+035.805  000.434  000.434: sourcing /Users/ryanyun/.vim/bundle/Vundle.vim/autoload/vundle.vim
+036.661  000.446  000.446: sourcing /Users/ryanyun/.vim/bundle/Vundle.vim/autoload/vundle/config.vim
+037.066  000.045  000.045: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/filetype.vim
+037.344  000.040  000.040: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/ftplugin.vim
+037.606  000.035  000.035: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/indent.vim
+049.666  000.620  000.620: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+075.288  000.340  000.340: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+076.314  000.303  000.303: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/syntax/syncolor.vim
+087.276  039.893  038.630: sourcing /Users/ryanyun/.vim/bundle/oceanic-next/colors/OceanicNext.vim
+087.300  070.270  013.324: sourcing $HOME/.vimrc
+087.309  000.306: sourcing vimrc file(s)
+088.499  000.050  000.050: sourcing /Users/ryanyun/.vim/plugin/ck.vim
+088.912  000.337  000.337: sourcing /Users/ryanyun/.vim/plugin/vim-html/ftplugin/html.vim
+089.330  000.199  000.199: sourcing /Users/ryanyun/.vim/bundle/zoomwintab.vim/plugin/zoomwintab.vim
+090.551  001.001  001.001: sourcing /Users/ryanyun/.vim/bundle/fzf/plugin/fzf.vim
+092.339  001.585  001.585: sourcing /Users/ryanyun/.vim/bundle/fzf.vim/plugin/fzf.vim
+093.361  000.392  000.392: sourcing /Users/ryanyun/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+093.771  001.168  000.776: sourcing /Users/ryanyun/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+098.796  004.732  004.732: sourcing /Users/ryanyun/.vim/bundle/vim-mru/plugin/mru.vim
+100.042  000.968  000.968: sourcing /Users/ryanyun/.vim/bundle/ex-matchit/plugin/matchit.vim
+100.864  000.577  000.577: sourcing /Users/ryanyun/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+102.179  000.267  000.267: sourcing /Users/ryanyun/.vim/bundle/nerdtree/autoload/nerdtree.vim
+104.420  001.062  001.062: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+104.945  000.228  000.228: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+105.269  000.124  000.124: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+105.624  000.176  000.176: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+106.277  000.470  000.470: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+106.830  000.317  000.317: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+107.636  000.620  000.620: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+108.124  000.311  000.311: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+108.692  000.402  000.402: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+109.210  000.149  000.149: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+109.747  000.227  000.227: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+110.467  000.546  000.546: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+110.775  000.062  000.062: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+111.149  000.126  000.126: sourcing /Users/ryanyun/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+113.258  001.798  001.798: sourcing /Users/ryanyun/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+117.827  000.181  000.181: sourcing /Users/ryanyun/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+118.892  000.983  000.983: sourcing /Users/ryanyun/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+119.071  000.080  000.080: sourcing /Users/ryanyun/.vim/bundle/nerdtree/nerdtree_plugin/vcs.vim
+121.105  001.653  001.653: sourcing /Users/ryanyun/.vim/bundle/vim-nerdtree-tabs/nerdtree_plugin/vim-nerdtree-tabs.vim
+122.053  020.984  011.202: sourcing /Users/ryanyun/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+133.822  011.524  011.524: sourcing /Users/ryanyun/.vim/bundle/vim-easymotion/plugin/EasyMotion.vim
+137.432  003.327  003.327: sourcing /Users/ryanyun/.vim/bundle/emmet-vim/plugin/emmet.vim
+138.894  001.178  001.178: sourcing /Users/ryanyun/.vim/bundle/vim-surround/plugin/surround.vim
+139.375  000.142  000.142: sourcing /Users/ryanyun/.vim/bundle/ack.vim/plugin/ack.vim
+139.905  000.332  000.332: sourcing /Users/ryanyun/.vim/bundle/vim-commentary/plugin/commentary.vim
+140.540  000.447  000.447: sourcing /Users/ryanyun/.vim/bundle/vim-matrix-screensaver/plugin/matrix.vim
+142.526  001.777  001.777: sourcing /Users/ryanyun/.vim/bundle/supertab/plugin/supertab.vim
+142.888  000.122  000.122: sourcing /Users/ryanyun/.vim/bundle/vim-trailing-whitespace/plugin/trailing-whitespace.vim
+144.742  001.677  001.677: sourcing /Users/ryanyun/.vim/bundle/tagbar/plugin/tagbar.vim
+146.234  000.493  000.493: sourcing /Users/ryanyun/.vim/bundle/ultisnips/autoload/UltiSnips/map_keys.vim
+146.702  001.626  001.133: sourcing /Users/ryanyun/.vim/bundle/ultisnips/plugin/UltiSnips.vim
+147.078  000.067  000.067: sourcing /Users/ryanyun/.vim/bundle/goyo.vim/plugin/goyo.vim
+148.505  000.853  000.853: sourcing /Users/ryanyun/.vim/bundle/youcompleteme/plugin/youcompleteme.vim
+149.573  000.193  000.193: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/init.vim
+150.421  000.159  000.159: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/parts.vim
+152.494  000.236  000.236: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/util.vim
+152.588  003.850  003.262: sourcing /Users/ryanyun/.vim/bundle/vim-airline/plugin/airline.vim
+152.878  000.062  000.062: sourcing /Users/ryanyun/.vim/bundle/vim-airline-themes/plugin/airline-themes.vim
+153.798  000.128  000.128: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/getscriptPlugin.vim
+154.386  000.497  000.497: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/gzip.vim
+154.863  000.357  000.357: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/logiPat.vim
+155.062  000.065  000.065: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/manpager.vim
+155.407  000.264  000.264: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/matchparen.vim
+156.451  000.958  000.958: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/netrwPlugin.vim
+156.638  000.076  000.076: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/rrhelper.vim
+156.792  000.057  000.057: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/spellfile.vim
+157.105  000.224  000.224: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/tarPlugin.vim
+157.378  000.167  000.167: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/tohtml.vim
+157.719  000.245  000.245: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/vimballPlugin.vim
+158.159  000.339  000.339: sourcing /usr/local/Cellar/macvim/8.1-155/MacVim.app/Contents/Resources/vim/runtime/plugin/zipPlugin.vim
+158.231  008.960: loading plugins
+158.372  000.141: loading packages
+159.333  000.217  000.217: sourcing /Users/ryanyun/.vim/bundle/ultisnips/after/plugin/UltiSnips_after.vim
+159.437  000.848: loading after plugins
+159.447  000.010: inits 3
+167.532  008.085: reading viminfo
+167.597  000.065: setting raw mode
+167.605  000.008: start termcap
+167.634  000.029: clearing screen
+169.203  000.761  000.761: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions.vim
+170.103  000.300  000.300: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/quickfix.vim
+171.004  000.546  000.546: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline.vim
+171.618  000.141  000.141: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/netrw.vim
+172.214  000.162  000.162: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/term.vim
+173.884  001.161  001.161: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/ctrlp.vim
+174.683  000.214  000.214: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/tagbar.vim
+175.863  000.632  000.632: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/branch.vim
+176.582  000.187  000.187: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/fugitiveline.vim
+177.839  000.519  000.519: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/whitespace.vim
+180.115  000.647  000.647: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount.vim
+181.503  000.147  000.147: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/keymap.vim
+188.038  000.258  000.258: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/section.vim
+189.124  000.602  000.602: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+201.139  000.196  000.196: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/themes.vim
+201.513  001.141  000.945: sourcing /Users/ryanyun/.vim/bundle/oceanic-next/autoload/airline/themes/oceanicnext.vim
+240.779  000.689  000.689: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/builder.vim
+242.011  000.313  000.313: sourcing /Users/ryanyun/.vim/bundle/vim-airline/autoload/airline/extensions/default.vim
+321.759  145.705: opening buffers
+321.849  000.090: BufEnter autocommands
+321.853  000.004: editing files in windows
+335.801  012.874  012.874: sourcing /Users/ryanyun/.vim/bundle/vim-fugitive/autoload/fugitive.vim
+339.313  001.202  001.202: sourcing /Users/ryanyun/.vim/bundle/youcompleteme/autoload/youcompleteme.vim
+534.921  198.992: VimEnter autocommands
+534.934  000.013: before starting main loop
+543.517  004.369  004.369: sourcing /Users/ryanyun/.vim/bundle/tagbar/autoload/tagbar.vim
+549.273  000.177  000.177: sourcing /Users/ryanyun/.vim/bundle/tagbar/autoload/tagbar/debug.vim
+599.778  000.959  000.959: sourcing /Users/ryanyun/.vim/bundle/tagbar/autoload/tagbar/types/ctags.vim
+600.573  000.149  000.149: sourcing /Users/ryanyun/.vim/bundle/tagbar/autoload/tagbar/prototypes/typeinfo.vim
+622.227  081.639: first screen update
+622.230  000.003: --- VIM STARTED ---
